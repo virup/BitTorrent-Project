@@ -1,0 +1,156 @@
+2009-04-14 17:23:21: Peer 1004 is started
+2009-04-14 17:23:25: Peer 1004 HANDSHAKE has been sent...
+2009-04-14 17:23:25: Peer 1004 HANDSHAKE has been sent...
+2009-04-14 17:23:25: Peer 1004 makes a connection to Peer 1003
+2009-04-14 17:23:25: Peer 1004 Received a HANDSHAKE message from Peer 1003
+2009-04-14 17:23:25: Peer 1004 makes a connection to Peer 1001
+2009-04-14 17:23:25: Peer 1004 Received a HANDSHAKE message from Peer 1001
+2009-04-14 17:23:26: Peer 1004 HANDSHAKE has been sent...
+2009-04-14 17:23:26: Peer 1004 makes a connection to Peer 1002
+2009-04-14 17:23:26: Peer 1004 Received a HANDSHAKE message from Peer 1002
+2009-04-14 17:23:26: Peer 1004 sending an INTERESTED message to Peer 1001
+2009-04-14 17:23:26: Peer 1004 sending a NOT INTERESTED message to Peer 1003
+2009-04-14 17:23:26: Peer 1004 sending a NOT INTERESTED message to Peer 1002
+2009-04-14 17:23:26: Peer 1004 is UNCHOKED by Peer 1001
+2009-04-14 17:23:27: Peer 1004 has downloaded the PIECE 0 from Peer 1001. Now the number of pieces it has is 1
+2009-04-14 17:23:28: Peer 1004 has downloaded the PIECE 1 from Peer 1001. Now the number of pieces it has is 2
+2009-04-14 17:23:28: Peer 1004 has downloaded the PIECE 2 from Peer 1001. Now the number of pieces it has is 3
+2009-04-14 17:23:29: Peer 1004 has downloaded the PIECE 3 from Peer 1001. Now the number of pieces it has is 4
+2009-04-14 17:23:29: Peer 1004 has downloaded the PIECE 4 from Peer 1001. Now the number of pieces it has is 5
+2009-04-14 17:23:30: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:30: Peer 1004 sending an INTERESTED message to Peer 1002
+2009-04-14 17:23:30: Peer 1004 has downloaded the PIECE 5 from Peer 1001. Now the number of pieces it has is 6
+2009-04-14 17:23:30: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:30: Peer 1004 sending an INTERESTED message to Peer 1002
+2009-04-14 17:23:30: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:30: Peer 1004 sending an INTERESTED message to Peer 1002
+2009-04-14 17:23:30: Peer 1004 has downloaded the PIECE 6 from Peer 1001. Now the number of pieces it has is 7
+2009-04-14 17:23:30: Peer 1004 is UNCHOKED by Peer 1002
+2009-04-14 17:23:31: Peer 1004 has downloaded the PIECE 7 from Peer 1001. Now the number of pieces it has is 8
+2009-04-14 17:23:31: Peer 1004 receieved HAVE message from Peer 1003
+2009-04-14 17:23:31: Peer 1004 sending a NOT INTERESTED message to Peer 1003
+2009-04-14 17:23:31: Peer 1004 receieved HAVE message from Peer 1003
+2009-04-14 17:23:31: Peer 1004 sending a NOT INTERESTED message to Peer 1003
+2009-04-14 17:23:31: Peer 1004 has downloaded the PIECE 8 from Peer 1001. Now the number of pieces it has is 9
+2009-04-14 17:23:31: Peer 1004 receieved HAVE message from Peer 1003
+2009-04-14 17:23:31: Peer 1004 sending a NOT INTERESTED message to Peer 1003
+2009-04-14 17:23:32: Peer 1004 receieved HAVE message from Peer 1003
+2009-04-14 17:23:32: Peer 1004 sending an INTERESTED message to Peer 1003
+2009-04-14 17:23:32: Peer 1004 receieved HAVE message from Peer 1003
+2009-04-14 17:23:32: Peer 1004 sending an INTERESTED message to Peer 1003
+2009-04-14 17:23:32: Peer 1004 has downloaded the PIECE 9 from Peer 1001. Now the number of pieces it has is 10
+2009-04-14 17:23:32: Peer 1004 is UNCHOKED by Peer 1003
+2009-04-14 17:23:32: Peer 1004 Connection is established
+2009-04-14 17:23:32: Peer 1004 has downloaded the PIECE 10 from Peer 1001. Now the number of pieces it has is 11
+2009-04-14 17:23:33: Peer 1004 makes a connection to Peer 1005
+2009-04-14 17:23:33: Peer 1004 Received a HANDSHAKE message from Peer 1005
+2009-04-14 17:23:33: Peer 1004 HANDSHAKE message has been sent successfully.
+2009-04-14 17:23:33: Peer 1004 receieved a BITFIELD message from Peer 1005
+2009-04-14 17:23:33: Peer 1004 sending BITFIELD message to Peer 1005
+2009-04-14 17:23:33: Peer 1004 receieved HAVE message from Peer 1003
+2009-04-14 17:23:33: Peer 1004 sending an INTERESTED message to Peer 1003
+2009-04-14 17:23:33: Peer 1004 has downloaded the PIECE 11 from Peer 1001. Now the number of pieces it has is 12
+2009-04-14 17:23:34: Peer 1004 is UNCHOKED by Peer 1003
+2009-04-14 17:23:34: Peer 1004 receieved an INTERESTED message from Peer 1005
+2009-04-14 17:23:34: Peer 1004 sending UNCHOKE message to Peer 1005
+2009-04-14 17:23:34: Peer 1004 has downloaded the PIECE 12 from Peer 1001. Now the number of pieces it has is 13
+2009-04-14 17:23:34: Peer 1004 sending HAVE message to Peer 1005
+2009-04-14 17:23:34: Peer 1004 receieved HAVE message from Peer 1003
+2009-04-14 17:23:34: Peer 1004 sending an INTERESTED message to Peer 1003
+2009-04-14 17:23:34: Peer 1004 receieved an INTERESTED message from Peer 1005
+2009-04-14 17:23:34: Peer 1004 sending UNCHOKE message to Peer 1005
+2009-04-14 17:23:34: Peer 1004 has downloaded the PIECE 13 from Peer 1001. Now the number of pieces it has is 14
+2009-04-14 17:23:34: Peer 1004 sending HAVE message to Peer 1005
+2009-04-14 17:23:35: Peer 1004 is UNCHOKED by Peer 1003
+2009-04-14 17:23:35: Peer 1004 receieved an INTERESTED message from Peer 1005
+2009-04-14 17:23:35: Peer 1004 sending UNCHOKE message to Peer 1005
+2009-04-14 17:23:35: Peer 1004 has downloaded the PIECE 14 from Peer 1001. Now the number of pieces it has is 15
+2009-04-14 17:23:35: Peer 1004 sending HAVE message to Peer 1005
+2009-04-14 17:23:35: Peer 1004 receieved HAVE message from Peer 1003
+2009-04-14 17:23:35: Peer 1004 sending an INTERESTED message to Peer 1003
+2009-04-14 17:23:35: Peer 1004 receieved an INTERESTED message from Peer 1005
+2009-04-14 17:23:35: Peer 1004 sending UNCHOKE message to Peer 1005
+2009-04-14 17:23:35: Peer 1004 has downloaded the PIECE 15 from Peer 1001. Now the number of pieces it has is 16
+2009-04-14 17:23:35: Peer 1004 sending HAVE message to Peer 1005
+2009-04-14 17:23:36: Peer 1004 is UNCHOKED by Peer 1003
+2009-04-14 17:23:36: Peer 1004 has downloaded the PIECE 16 from Peer 1001. Now the number of pieces it has is 17
+2009-04-14 17:23:36: Peer 1004 sending HAVE message to Peer 1005
+2009-04-14 17:23:36: Peer 1004 receieved an INTERESTED message from Peer 1005
+2009-04-14 17:23:36: Peer 1004 sending UNCHOKE message to Peer 1005
+2009-04-14 17:23:36: Peer 1004 has downloaded the PIECE 17 from Peer 1001. Now the number of pieces it has is 18
+2009-04-14 17:23:36: Peer 1004 sending HAVE message to Peer 1005
+2009-04-14 17:23:37: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:37: Peer 1004 sending a NOT INTERESTED message to Peer 1002
+2009-04-14 17:23:37: Peer 1004 has downloaded the PIECE 18 from Peer 1001. Now the number of pieces it has is 19
+2009-04-14 17:23:37: Peer 1004 sending HAVE message to Peer 1005
+2009-04-14 17:23:37: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:37: Peer 1004 sending a NOT INTERESTED message to Peer 1002
+2009-04-14 17:23:37: Peer 1004 receieved an INTERESTED message from Peer 1005
+2009-04-14 17:23:37: Peer 1004 sending UNCHOKE message to Peer 1005
+2009-04-14 17:23:37: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:37: Peer 1004 sending a NOT INTERESTED message to Peer 1002
+2009-04-14 17:23:37: Peer 1004 has downloaded the PIECE 19 from Peer 1001. Now the number of pieces it has is 20
+2009-04-14 17:23:37: Peer 1004 sending HAVE message to Peer 1005
+2009-04-14 17:23:38: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:38: Peer 1004 sending a NOT INTERESTED message to Peer 1002
+2009-04-14 17:23:38: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:38: Peer 1004 sending a NOT INTERESTED message to Peer 1002
+2009-04-14 17:23:38: Peer 1004 has downloaded the PIECE 20 from Peer 1001. Now the number of pieces it has is 21
+2009-04-14 17:23:38: Peer 1004 sending HAVE message to Peer 1005
+2009-04-14 17:23:38: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:38: Peer 1004 sending a NOT INTERESTED message to Peer 1002
+2009-04-14 17:23:38: Peer 1004 has downloaded the PIECE 21 from Peer 1001. Now the number of pieces it has is 22
+2009-04-14 17:23:38: Peer 1004 sending HAVE message to Peer 1005
+2009-04-14 17:23:38: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:38: Peer 1004 sending a NOT INTERESTED message to Peer 1002
+2009-04-14 17:23:38: Peer 1004 receieved an INTERESTED message from Peer 1005
+2009-04-14 17:23:38: Peer 1004 sending UNCHOKE message to Peer 1005
+2009-04-14 17:23:39: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:39: Peer 1004 sending a NOT INTERESTED message to Peer 1002
+2009-04-14 17:23:39: Peer 1004 has downloaded the PIECE 22 from Peer 1001. Now the number of pieces it has is 23
+2009-04-14 17:23:39: Peer 1004 sending HAVE message to Peer 1005
+2009-04-14 17:23:39: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:39: Peer 1004 sending a NOT INTERESTED message to Peer 1002
+2009-04-14 17:23:39: Peer 1004 has downloaded the PIECE 23 from Peer 1001. Now the number of pieces it has is 24
+2009-04-14 17:23:39: Peer 1004 sending HAVE message to Peer 1005
+2009-04-14 17:23:39: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:39: Peer 1004 sending a NOT INTERESTED message to Peer 1002
+2009-04-14 17:23:40: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:40: Peer 1004 sending a NOT INTERESTED message to Peer 1002
+2009-04-14 17:23:40: Peer 1004 has downloaded the PIECE 24 from Peer 1001. Now the number of pieces it has is 25
+2009-04-14 17:23:40: Peer 1004 sending HAVE message to Peer 1005
+2009-04-14 17:23:40: Peer 1004 receieved an INTERESTED message from Peer 1005
+2009-04-14 17:23:40: Peer 1004 sending UNCHOKE message to Peer 1005
+2009-04-14 17:23:40: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:40: Peer 1004 sending a NOT INTERESTED message to Peer 1002
+2009-04-14 17:23:40: Peer 1004 has downloaded the PIECE 25 from Peer 1001. Now the number of pieces it has is 26
+2009-04-14 17:23:40: Peer 1004 sending HAVE message to Peer 1005
+2009-04-14 17:23:40: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:40: Peer 1004 sending a NOT INTERESTED message to Peer 1002
+2009-04-14 17:23:41: Peer 1004 receieved HAVE message from Peer 1002
+2009-04-14 17:23:41: Peer 1004 sending a NOT INTERESTED message to Peer 1002
+2009-04-14 17:23:41: Peer 1004 has downloaded the PIECE 26 from Peer 1001. Now the number of pieces it has is 27
+2009-04-14 17:23:41: Peer 1004 has DOWNLOADED the complete file.
+2009-04-14 17:23:41: Peer 1004 sending HAVE message to Peer 1005
+2009-04-14 17:23:41: Peer 1004 receieved an INTERESTED message from Peer 1005
+2009-04-14 17:23:41: Peer 1004 sending UNCHOKE message to Peer 1005
+2009-04-14 17:23:42: Peer 1004 sending a PIECE message for piece 8 to Peer 1005
+2009-04-14 17:23:43: Peer 1004 sending a PIECE message for piece 10 to Peer 1005
+2009-04-14 17:23:45: Peer 1004 sending a PIECE message for piece 11 to Peer 1005
+2009-04-14 17:23:46: Peer 1004 sending a PIECE message for piece 12 to Peer 1005
+2009-04-14 17:23:47: Peer 1004 sending a PIECE message for piece 13 to Peer 1005
+2009-04-14 17:23:48: Peer 1004 sending a PIECE message for piece 14 to Peer 1005
+2009-04-14 17:23:49: Peer 1004 sending a PIECE message for piece 15 to Peer 1005
+2009-04-14 17:23:49: Peer 1004 sending a PIECE message for piece 16 to Peer 1005
+2009-04-14 17:23:50: Peer 1004 sending a PIECE message for piece 17 to Peer 1005
+2009-04-14 17:23:51: Peer 1004 sending a PIECE message for piece 18 to Peer 1005
+2009-04-14 17:23:52: Peer 1004 sending a PIECE message for piece 19 to Peer 1005
+2009-04-14 17:23:52: Peer 1004 sending a PIECE message for piece 20 to Peer 1005
+2009-04-14 17:23:53: Peer 1004 sending a PIECE message for piece 21 to Peer 1005
+2009-04-14 17:23:55: Peer 1004 sending a PIECE message for piece 22 to Peer 1005
+2009-04-14 17:23:55: Peer 1004 sending a PIECE message for piece 23 to Peer 1005
+2009-04-14 17:23:57: Peer 1004 sending a PIECE message for piece 24 to Peer 1005
+2009-04-14 17:23:58: Peer 1004 sending a PIECE message for piece 25 to Peer 1005
+2009-04-14 17:23:59: Peer 1004 sending a PIECE message for piece 26 to Peer 1005
+2009-04-14 17:24:01: Peer All peers have completed downloading the file.
+2009-04-14 17:24:03: Peer 1004 Peer process is exiting..

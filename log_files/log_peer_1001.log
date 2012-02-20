@@ -1,0 +1,181 @@
+2009-04-14 17:23:20: Peer 1001 is started
+2009-04-14 17:23:24: Peer 1001 Connection is established
+2009-04-14 17:23:24: Peer 1001 makes a connection to Peer 1002
+2009-04-14 17:23:24: Peer 1001 Received a HANDSHAKE message from Peer 1002
+2009-04-14 17:23:24: Peer 1001 HANDSHAKE message has been sent successfully.
+2009-04-14 17:23:25: Peer 1001 receieved a BITFIELD message from Peer 1002
+2009-04-14 17:23:25: Peer 1001 sending BITFIELD message to Peer 1002
+2009-04-14 17:23:25: Peer 1001 receieved an INTERESTED message from Peer 1002
+2009-04-14 17:23:25: Peer 1001 sending UNCHOKE message to Peer 1002
+2009-04-14 17:23:25: Peer 1001 Connection is established
+2009-04-14 17:23:25: Peer 1001 makes a connection to Peer 1003
+2009-04-14 17:23:25: Peer 1001 Received a HANDSHAKE message from Peer 1003
+2009-04-14 17:23:25: Peer 1001 HANDSHAKE message has been sent successfully.
+2009-04-14 17:23:25: Peer 1001 Connection is established
+2009-04-14 17:23:25: Peer 1001 makes a connection to Peer 1004
+2009-04-14 17:23:25: Peer 1001 Received a HANDSHAKE message from Peer 1004
+2009-04-14 17:23:25: Peer 1001 HANDSHAKE message has been sent successfully.
+2009-04-14 17:23:26: Peer 1001 receieved a BITFIELD message from Peer 1003
+2009-04-14 17:23:26: Peer 1001 sending BITFIELD message to Peer 1003
+2009-04-14 17:23:26: Peer 1001 sending a PIECE message for piece 0 to Peer 1002
+2009-04-14 17:23:26: Peer 1001 receieved a BITFIELD message from Peer 1004
+2009-04-14 17:23:26: Peer 1001 sending BITFIELD message to Peer 1004
+2009-04-14 17:23:26: Peer 1001 receieved an INTERESTED message from Peer 1003
+2009-04-14 17:23:26: Peer 1001 sending UNCHOKE message to Peer 1003
+2009-04-14 17:23:26: Peer 1001 sending a PIECE message for piece 1 to Peer 1002
+2009-04-14 17:23:26: Peer 1001 receieved an INTERESTED message from Peer 1004
+2009-04-14 17:23:26: Peer 1001 sending UNCHOKE message to Peer 1004
+2009-04-14 17:23:27: Peer 1001 sending a PIECE message for piece 0 to Peer 1004
+2009-04-14 17:23:27: Peer 1001 sending a PIECE message for piece 0 to Peer 1003
+2009-04-14 17:23:27: Peer 1001 sending a PIECE message for piece 2 to Peer 1002
+2009-04-14 17:23:27: Peer 1001 sending a PIECE message for piece 1 to Peer 1004
+2009-04-14 17:23:27: Peer 1001 sending a PIECE message for piece 1 to Peer 1003
+2009-04-14 17:23:27: Peer 1001 sending a PIECE message for piece 3 to Peer 1002
+2009-04-14 17:23:28: Peer 1001 sending a PIECE message for piece 2 to Peer 1003
+2009-04-14 17:23:28: Peer 1001 sending a PIECE message for piece 4 to Peer 1002
+2009-04-14 17:23:28: Peer 1001 sending a PIECE message for piece 2 to Peer 1004
+2009-04-14 17:23:28: Peer 1001 sending a PIECE message for piece 3 to Peer 1003
+2009-04-14 17:23:28: Peer 1001 sending a PIECE message for piece 5 to Peer 1002
+2009-04-14 17:23:28: Peer 1001 sending a PIECE message for piece 3 to Peer 1004
+2009-04-14 17:23:29: Peer 1001 sending a PIECE message for piece 4 to Peer 1003
+2009-04-14 17:23:29: Peer 1001 sending a PIECE message for piece 6 to Peer 1002
+2009-04-14 17:23:29: Peer 1001 sending a PIECE message for piece 4 to Peer 1004
+2009-04-14 17:23:29: Peer 1001 sending a PIECE message for piece 5 to Peer 1003
+2009-04-14 17:23:29: Peer 1001 sending a PIECE message for piece 7 to Peer 1002
+2009-04-14 17:23:29: Peer 1001 sending a PIECE message for piece 5 to Peer 1004
+2009-04-14 17:23:30: Peer 1001 sending a PIECE message for piece 6 to Peer 1003
+2009-04-14 17:23:30: Peer 1001 sending a PIECE message for piece 8 to Peer 1002
+2009-04-14 17:23:30: Peer 1001 sending a PIECE message for piece 6 to Peer 1004
+2009-04-14 17:23:30: Peer 1001 has selected the preferred neighbors - 1004, 1003, 
+2009-04-14 17:23:30: Peer 1001 sending a PIECE message for piece 7 to Peer 1003
+2009-04-14 17:23:30: Peer 1001 sending a PIECE message for piece 9 to Peer 1002
+2009-04-14 17:23:30: Peer 1001 sending CHOKE message to Peer 1002
+2009-04-14 17:23:30: Peer 1001 sending a PIECE message for piece 7 to Peer 1004
+2009-04-14 17:23:31: Peer 1001 sending a PIECE message for piece 8 to Peer 1003
+2009-04-14 17:23:31: Peer 1001 sending a PIECE message for piece 8 to Peer 1004
+2009-04-14 17:23:31: Peer 1001 sending a PIECE message for piece 9 to Peer 1003
+2009-04-14 17:23:32: Peer 1001 sending a PIECE message for piece 9 to Peer 1004
+2009-04-14 17:23:32: Peer 1001 sending a PIECE message for piece 10 to Peer 1003
+2009-04-14 17:23:32: Peer 1001 sending a PIECE message for piece 10 to Peer 1004
+2009-04-14 17:23:32: Peer 1001 sending a PIECE message for piece 11 to Peer 1003
+2009-04-14 17:23:33: Peer 1001 Connection is established
+2009-04-14 17:23:33: Peer 1001 makes a connection to Peer 1005
+2009-04-14 17:23:33: Peer 1001 Received a HANDSHAKE message from Peer 1005
+2009-04-14 17:23:33: Peer 1001 HANDSHAKE message has been sent successfully.
+2009-04-14 17:23:33: Peer 1001 sending a PIECE message for piece 11 to Peer 1004
+2009-04-14 17:23:33: Peer 1001 receieved a BITFIELD message from Peer 1005
+2009-04-14 17:23:33: Peer 1001 sending BITFIELD message to Peer 1005
+2009-04-14 17:23:33: Peer 1001 sending a PIECE message for piece 12 to Peer 1003
+2009-04-14 17:23:33: Peer 1001 sending a PIECE message for piece 12 to Peer 1004
+2009-04-14 17:23:33: Peer 1001 sending a PIECE message for piece 13 to Peer 1003
+2009-04-14 17:23:33: Peer 1001 receieved an INTERESTED message from Peer 1005
+2009-04-14 17:23:33: Peer 1001 sending CHOKE message to Peer 1005
+2009-04-14 17:23:34: Peer 1001 sending a PIECE message for piece 13 to Peer 1004
+2009-04-14 17:23:34: Peer 1001 sending a PIECE message for piece 14 to Peer 1003
+2009-04-14 17:23:34: Peer 1001 sending a PIECE message for piece 14 to Peer 1004
+2009-04-14 17:23:34: Peer 1001 sending a PIECE message for piece 15 to Peer 1003
+2009-04-14 17:23:35: Peer 1001 sending a PIECE message for piece 15 to Peer 1004
+2009-04-14 17:23:35: Peer 1001 sending a PIECE message for piece 16 to Peer 1003
+2009-04-14 17:23:35: Peer 1001 has the optimistically unchoked neighbor 1002
+2009-04-14 17:23:35: Peer 1001 is sending UNCHOKE message to remote Peer 1002
+2009-04-14 17:23:35: Peer 1001 sending HAVE message to Peer 1002
+2009-04-14 17:23:35: Peer 1001 is sending UNCHOKE message to remote Peer 1005
+2009-04-14 17:23:35: Peer 1001 sending HAVE message to Peer 1005
+2009-04-14 17:23:35: Peer 1001 has selected the preferred neighbors - 1005, 1004, 
+2009-04-14 17:23:35: Peer 1001 sending a PIECE message for piece 16 to Peer 1004
+2009-04-14 17:23:35: Peer 1001 sending a PIECE message for piece 17 to Peer 1003
+2009-04-14 17:23:35: Peer 1001 sending CHOKE message to Peer 1003
+2009-04-14 17:23:35: Peer 1001 receieved an INTERESTED message from Peer 1002
+2009-04-14 17:23:35: Peer 1001 sending UNCHOKE message to Peer 1002
+2009-04-14 17:23:36: Peer 1001 sending a PIECE message for piece 9 to Peer 1002
+2009-04-14 17:23:36: Peer 1001 sending a PIECE message for piece 17 to Peer 1004
+2009-04-14 17:23:36: Peer 1001 receieved an INTERESTED message from Peer 1005
+2009-04-14 17:23:36: Peer 1001 sending UNCHOKE message to Peer 1005
+2009-04-14 17:23:36: Peer 1001 sending a PIECE message for piece 9 to Peer 1002
+2009-04-14 17:23:36: Peer 1001 sending a PIECE message for piece 18 to Peer 1004
+2009-04-14 17:23:36: Peer 1001 sending a PIECE message for piece 10 to Peer 1002
+2009-04-14 17:23:37: Peer 1001 sending a PIECE message for piece 11 to Peer 1002
+2009-04-14 17:23:37: Peer 1001 sending a PIECE message for piece 19 to Peer 1004
+2009-04-14 17:23:37: Peer 1001 sending a PIECE message for piece 4 to Peer 1005
+2009-04-14 17:23:37: Peer 1001 sending a PIECE message for piece 11 to Peer 1002
+2009-04-14 17:23:38: Peer 1001 sending a PIECE message for piece 20 to Peer 1004
+2009-04-14 17:23:38: Peer 1001 sending a PIECE message for piece 12 to Peer 1002
+2009-04-14 17:23:38: Peer 1001 sending a PIECE message for piece 12 to Peer 1002
+2009-04-14 17:23:38: Peer 1001 sending a PIECE message for piece 21 to Peer 1004
+2009-04-14 17:23:38: Peer 1001 sending a PIECE message for piece 13 to Peer 1002
+2009-04-14 17:23:39: Peer 1001 sending a PIECE message for piece 14 to Peer 1002
+2009-04-14 17:23:39: Peer 1001 sending a PIECE message for piece 5 to Peer 1005
+2009-04-14 17:23:39: Peer 1001 sending a PIECE message for piece 22 to Peer 1004
+2009-04-14 17:23:39: Peer 1001 sending a PIECE message for piece 14 to Peer 1002
+2009-04-14 17:23:39: Peer 1001 sending a PIECE message for piece 23 to Peer 1004
+2009-04-14 17:23:39: Peer 1001 sending a PIECE message for piece 15 to Peer 1002
+2009-04-14 17:23:40: Peer 1001 sending a PIECE message for piece 16 to Peer 1002
+2009-04-14 17:23:40: Peer 1001 sending a PIECE message for piece 24 to Peer 1004
+2009-04-14 17:23:40: Peer 1001 sending a PIECE message for piece 16 to Peer 1002
+2009-04-14 17:23:40: Peer 1001 sending a PIECE message for piece 6 to Peer 1005
+2009-04-14 17:23:40: Peer 1001 has selected the preferred neighbors - 1005, 1004, 
+2009-04-14 17:23:40: Peer 1001 sending a PIECE message for piece 25 to Peer 1004
+2009-04-14 17:23:40: Peer 1001 sending a PIECE message for piece 17 to Peer 1002
+2009-04-14 17:23:41: Peer 1001 sending a PIECE message for piece 18 to Peer 1002
+2009-04-14 17:23:41: Peer 1001 sending a PIECE message for piece 7 to Peer 1005
+2009-04-14 17:23:41: Peer 1001 sending a PIECE message for piece 26 to Peer 1004
+2009-04-14 17:23:41: Peer 1001 sending a PIECE message for piece 18 to Peer 1002
+2009-04-14 17:23:41: Peer 1001 sending a PIECE message for piece 8 to Peer 1005
+2009-04-14 17:23:41: Peer 1001 sending a PIECE message for piece 19 to Peer 1002
+2009-04-14 17:23:42: Peer 1001 sending a PIECE message for piece 20 to Peer 1002
+2009-04-14 17:23:42: Peer 1001 sending a PIECE message for piece 20 to Peer 1002
+2009-04-14 17:23:42: Peer 1001 sending a PIECE message for piece 9 to Peer 1005
+2009-04-14 17:23:42: Peer 1001 sending a PIECE message for piece 21 to Peer 1002
+2009-04-14 17:23:42: Peer 1001 sending a PIECE message for piece 21 to Peer 1002
+2009-04-14 17:23:43: Peer 1001 sending a PIECE message for piece 22 to Peer 1002
+2009-04-14 17:23:43: Peer 1001 sending a PIECE message for piece 22 to Peer 1002
+2009-04-14 17:23:43: Peer 1001 sending a PIECE message for piece 23 to Peer 1002
+2009-04-14 17:23:43: Peer 1001 sending a PIECE message for piece 23 to Peer 1002
+2009-04-14 17:23:43: Peer 1001 sending a PIECE message for piece 10 to Peer 1005
+2009-04-14 17:23:44: Peer 1001 sending a PIECE message for piece 24 to Peer 1002
+2009-04-14 17:23:44: Peer 1001 sending a PIECE message for piece 24 to Peer 1002
+2009-04-14 17:23:44: Peer 1001 sending a PIECE message for piece 25 to Peer 1002
+2009-04-14 17:23:44: Peer 1001 sending a PIECE message for piece 25 to Peer 1002
+2009-04-14 17:23:45: Peer 1001 sending a PIECE message for piece 26 to Peer 1002
+2009-04-14 17:23:45: Peer 1001 sending a PIECE message for piece 26 to Peer 1002
+2009-04-14 17:23:45: Peer 1001 is sending UNCHOKE message to remote Peer 1003
+2009-04-14 17:23:45: Peer 1001 sending HAVE message to Peer 1003
+2009-04-14 17:23:45: Peer 1001 has selected the preferred neighbors - 1003, 
+2009-04-14 17:23:45: Peer 1001 sending a PIECE message for piece 11 to Peer 1005
+2009-04-14 17:23:45: Peer 1001 receieved an INTERESTED message from Peer 1003
+2009-04-14 17:23:45: Peer 1001 sending UNCHOKE message to Peer 1003
+2009-04-14 17:23:46: Peer 1001 sending a PIECE message for piece 17 to Peer 1003
+2009-04-14 17:23:46: Peer 1001 sending a PIECE message for piece 17 to Peer 1003
+2009-04-14 17:23:46: Peer 1001 sending a PIECE message for piece 12 to Peer 1005
+2009-04-14 17:23:46: Peer 1001 sending a PIECE message for piece 18 to Peer 1003
+2009-04-14 17:23:47: Peer 1001 sending a PIECE message for piece 19 to Peer 1003
+2009-04-14 17:23:47: Peer 1001 sending a PIECE message for piece 13 to Peer 1005
+2009-04-14 17:23:47: Peer 1001 sending a PIECE message for piece 19 to Peer 1003
+2009-04-14 17:23:47: Peer 1001 sending a PIECE message for piece 20 to Peer 1003
+2009-04-14 17:23:48: Peer 1001 sending a PIECE message for piece 21 to Peer 1003
+2009-04-14 17:23:48: Peer 1001 sending a PIECE message for piece 14 to Peer 1005
+2009-04-14 17:23:48: Peer 1001 sending a PIECE message for piece 21 to Peer 1003
+2009-04-14 17:23:48: Peer 1001 sending a PIECE message for piece 22 to Peer 1003
+2009-04-14 17:23:48: Peer 1001 sending a PIECE message for piece 22 to Peer 1003
+2009-04-14 17:23:49: Peer 1001 sending a PIECE message for piece 15 to Peer 1005
+2009-04-14 17:23:49: Peer 1001 sending a PIECE message for piece 23 to Peer 1003
+2009-04-14 17:23:49: Peer 1001 sending a PIECE message for piece 23 to Peer 1003
+2009-04-14 17:23:49: Peer 1001 sending a PIECE message for piece 16 to Peer 1005
+2009-04-14 17:23:49: Peer 1001 sending a PIECE message for piece 24 to Peer 1003
+2009-04-14 17:23:49: Peer 1001 sending a PIECE message for piece 24 to Peer 1003
+2009-04-14 17:23:50: Peer 1001 sending a PIECE message for piece 25 to Peer 1003
+2009-04-14 17:23:50: Peer 1001 sending a PIECE message for piece 25 to Peer 1003
+2009-04-14 17:23:50: Peer 1001 sending a PIECE message for piece 17 to Peer 1005
+2009-04-14 17:23:50: Peer 1001 sending a PIECE message for piece 26 to Peer 1003
+2009-04-14 17:23:50: Peer 1001 sending a PIECE message for piece 26 to Peer 1003
+2009-04-14 17:23:50: Peer 1001 sending a PIECE message for piece 18 to Peer 1005
+2009-04-14 17:23:52: Peer 1001 sending a PIECE message for piece 19 to Peer 1005
+2009-04-14 17:23:52: Peer 1001 sending a PIECE message for piece 20 to Peer 1005
+2009-04-14 17:23:53: Peer 1001 sending a PIECE message for piece 21 to Peer 1005
+2009-04-14 17:23:55: Peer 1001 sending a PIECE message for piece 22 to Peer 1005
+2009-04-14 17:23:55: Peer 1001 sending a PIECE message for piece 23 to Peer 1005
+2009-04-14 17:23:56: Peer 1001 sending a PIECE message for piece 24 to Peer 1005
+2009-04-14 17:23:58: Peer 1001 sending a PIECE message for piece 25 to Peer 1005
+2009-04-14 17:23:59: Peer 1001 sending a PIECE message for piece 26 to Peer 1005
+2009-04-14 17:24:00: Peer All peers have completed downloading the file.
+2009-04-14 17:24:02: Peer 1001 Peer process is exiting..
